@@ -50,3 +50,5 @@ Tracks monthly customer cohorts across an 18-month cycle. While customer acquisi
 * `/data` - Contains references to the cleaned datasets used.
 * `Olist_RFM_Cohort_Analysis.ipynb` - Python notebook with the data pipeline and statistical cleaning.
 * `README.md` - Comprehensive documentation of the project.
+
+* **Data Source Link:** [Olist E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Download the official 7 relational tables from here).
